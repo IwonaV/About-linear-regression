@@ -13,14 +13,14 @@ Interpretation:
 - Finally the Model Summary table shows that the R-squared value is 0.745.
 
 Data reference:
-real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-priceOnly=true)
+real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-price)
 
 ## Multiple linear regression 
 Interpretation:
 
 
 Data reference:
-real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-priceOnly=true)
+real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-price)
 
 ## Dealing with categorical predictors 
 Using dummy variables to include categorical variables into a regression model. So we are imitating category with numbers.
@@ -30,4 +30,4 @@ file [Simple regression with categorical predictors](https://github.com/IwonaV/A
 
 
 Data reference:
-real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-priceOnly=true)
+real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-price)
