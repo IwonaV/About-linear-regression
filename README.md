@@ -12,10 +12,15 @@ Interpretation:
 - The F-statistics is relatively high 285.9. Unlike the F-statistics value, we would like the probability to be as small as possible. Looking at the table we can see that the number is close to 0 therefore the overall model is significant. 
 - Finally the Model Summary table shows that the R-squared value is 0.745.
 
+Data reference:
+real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-priceOnly=true)
+
 ## Multiple linear regression 
 Interpretation:
 
 
+Data reference:
+real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-priceOnly=true)
 
 ## Dealing with categorical predictors 
 Using dummy variables to include categorical variables into a regression model. So we are imitating category with numbers.
