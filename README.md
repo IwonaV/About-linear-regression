@@ -29,4 +29,4 @@ real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/ga
 Using dummy variables to include categorical variables into a regression model. So we are imitating category with numbers.
 
 Interpretation: 
-file [Regression with categorical predictors](http://)
+file [Simple regression with categorical predictors](https://github.com/IwonaV/About-regression/blob/main/Simple%20regression%20with%20categorical%20predictors.ipynb)
