@@ -1,4 +1,4 @@
-# About-regression
+# About linear regression
 
 Regression models are highly valuable as they are the most common ways to make inferences and predictions.
 In our model we define the dependent variable y that is being predicted and the independent variable x the predictor.
