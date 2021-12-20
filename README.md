@@ -7,6 +7,7 @@ So the simple linear regression is the easiest regression and OLS (Ordinary Leas
 
 ## Simple linear regression
 Interpretation:
+file[Simple linear regression](https://github.com/IwonaV/About-linear-regression/blob/main/Projects%20-%20Linear%20Regressions.ipynb)
 - We can see the coefficient is statistically significant and p-values is equal to 0.000.
 - The F-statistics is relatively high 285.9. Unlike the F-statistics value, we would like the probability to be as small as possible. Looking at the table we can see that the number is close to 0 therefore the overall model is significant. 
 - Finally the Model Summary table shows that the R-squared value is 0.745.
