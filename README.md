@@ -6,8 +6,12 @@ The dependent variable y is a function of the independent variables x1 to xk and
 So the simple linear regression is the easiest regression and OLS (Ordinary Least Squares)is the most common method to estimate the linear regression equation.
 
 ## Simple linear regression
+
 Interpretation:
 file [Linear Regression](https://github.com/IwonaV/About-linear-regression/blob/main/Projects%20-%20Linear%20Regressions.ipynb)
+
+![image](https://user-images.githubusercontent.com/85560182/164673647-68e29eed-207e-4d34-bd0c-337bdd43771f.png)
+
 - We can see the coefficient is statistically significant and p-values is equal to 0.000.
 - The F-statistics is relatively high 285.9. Unlike the F-statistics value, we would like the probability to be as small as possible. Looking at the table we can see that the number is close to 0 therefore the overall model is significant. 
 - Finally the Model Summary table shows that the R-squared value is 0.745.
@@ -16,6 +20,9 @@ Data reference:
 real_estate_price_size_year_view dataset from [Kaggle](https://www.kaggle.com/gauravduttakiit/real-estate-price)
 
 ## Multiple linear regression 
+
+![image](https://user-images.githubusercontent.com/85560182/164673434-678e90d0-f87d-4e0e-9f32-d33400733437.png)
+
 Interpretation:
 - Based on the coefficients table, the 'size' and 'year' are significant at the 5% significance level. 
 - The p-values are virtually 0. 
